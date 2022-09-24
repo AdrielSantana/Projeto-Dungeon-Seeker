@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f331bc3f-d860-4246-9abf-6150307c3e89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/CommandWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/CommandWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/play/Play.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/test/CommandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/test/CommandWordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/test/CommandWordsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/test/GameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/test/ParserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/test/PlayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/test/PlayerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/test/RoomTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projeto Dungeon Seeker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto Dungeon Seeker.iml" afterDir="false" />
+    <list default="true" id="f331bc3f-d860-4246-9abf-6150307c3e89" name="Changes" comment="Jogo finalizado">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,8 +137,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664034804491</updated>
-      <workItem from="1664034806529" duration="10622000" />
+      <workItem from="1664034806529" duration="10990000" />
     </task>
+    <task id="LOCAL-00001" summary="Jogo finalizado">
+      <created>1664054641213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664054641213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,5 +162,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Jogo finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jogo finalizado" />
   </component>
 </project>

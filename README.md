@@ -25,3 +25,5 @@ armadilhas mortais.
 |     Final     |                                                                                               O objetivo do jogo é finalizado ao chegar na sala secreta com o tesouro.                                                                                                |
 
 > Para iniciar, só rodar a classe game.play.Play
+>
+> Projeto retirado do livro Objects First with Java: A Practical Introduction using BlueJ
