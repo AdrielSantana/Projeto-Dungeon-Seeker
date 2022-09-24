@@ -1,28 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f331bc3f-d860-4246-9abf-6150307c3e89" name="Changes" comment="" />
+    <list default="true" id="f331bc3f-d860-4246-9abf-6150307c3e89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/CommandWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/CommandWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/play/Play.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/test/CommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/test/CommandWordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/test/CommandWordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/test/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/test/ParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/test/PlayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/test/PlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/test/RoomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto Dungeon Seeker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto Dungeon Seeker.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2FDlzvMqai6qubnO2vzWe2UGyIi" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "create.test.in.the.same.root": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diel_\Dropbox\Projetos\UFS\Terceiro Semestre\POO\Projeto sala POO\Projeto Dungeon Seeker\src" />
+      <recent name="C:\Users\diel_\Dropbox\Projetos\UFS\Terceiro Semestre\POO\Projeto sala POO\Projeto Dungeon Seeker" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="game.test" />
+      <recent name="game" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RoomTest">
+    <configuration name="Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.play.Play" />
+      <module name="Projeto Dungeon Seeker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto Dungeon Seeker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game.test" />
+      <option name="MAIN_CLASS_NAME" value="game.test.GameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto Dungeon Seeker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game.test" />
+      <option name="MAIN_CLASS_NAME" value="game.test.PlayerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto Dungeon Seeker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game.test" />
+      <option name="MAIN_CLASS_NAME" value="game.test.RoomTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RoomTest" />
+        <item itemvalue="Application.game.Play" />
+        <item itemvalue="JUnit.PlayerTest" />
+        <item itemvalue="JUnit.GameTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +158,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664034804491</updated>
+      <workItem from="1664034806529" duration="10622000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
