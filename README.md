@@ -2,6 +2,11 @@
 
 ---
 
+## Alunos
+
+- Adriel Menezes Santana
+- Marcus Ryller Fonseca
+
 ![Capa do jogo](cape.png)
 
 ## Mapa do jogo
@@ -27,3 +32,4 @@ armadilhas mortais.
 > Para iniciar, só rodar a classe game.play.Play
 >
 > Projeto retirado do livro Objects First with Java: A Practical Introduction using BlueJ
+>
